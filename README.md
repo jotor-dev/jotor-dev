@@ -1,8 +1,8 @@
-<h2 align="left">Sobre mim</h2>
+  <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">Eu sou um desenvolvedor Junior.</p>
+<p align="left">I'm a Junior Developer.</p>
 
 ###
 
